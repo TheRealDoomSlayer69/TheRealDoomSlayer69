@@ -1,4 +1,4 @@
-- I'm a mod developer for 1.17.1
+- I'm a mod developer for 1.17.1 and 1.18.2
 - 
 
 <!---
